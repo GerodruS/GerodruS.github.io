@@ -1,0 +1,22 @@
+[project]
+title = My project
+version = 0.1
+
+[bootstrap]
+main_collection = /main/main.collectionc
+
+[input]
+game_binding = /input/game.input_bindingc
+
+[display]
+width = 600
+height = 800
+variable_dt = 0
+
+[physics]
+scale = 0.02
+gravity_y = -500
+
+[script]
+shared_state = 1
+
