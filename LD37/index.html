@@ -8,18 +8,10 @@
 
 		<title>My project 0.1</title>
 		<style>
-      body {
-        margin: 0;
-        padding: 0;
-      }
-
 			.canvas-app-container {
-			  /*background: rgb(255,255,255) no-repeat center url("try_game.png");*/
+			  background: rgb(255,255,255) no-repeat center url("try_game.png");
 			  /* A positioned parent for loading visuals */
-			  /*position: fixed ;*/
-			  position: fixed;
-        width: 100%;
-        height: 100%;
+			  position: relative;
 			}
 
 			.canvas-app-container:-webkit-full-screen {
@@ -33,7 +25,7 @@
 			  background-color: rgb(245, 245, 245);
 			  height: 20px;
 			  /* Progress same width as canvas. */
-			  width: 600px;
+			  width: 1280px;
 			  bottom: 0px;
 			}
 
@@ -54,20 +46,20 @@
 			}
 		</style>
 
-
+		
 	</head>
 
 	<body>
     <div id="fb-root"></div>
 
 	<div id="app-container" class="canvas-app-container">
-	    <canvas id="canvas" class="canvas-app-canvas" tabindex="1" width="600" height="800"></canvas>
+	    <canvas id="canvas" class="canvas-app-canvas" tabindex="1" width="1280" height="720"></canvas>
 	</div>
 
-	<!-- <button id="fullscreen" class="button">Fullscreen</button> -->
+	<button id="fullscreen" class="button">Fullscreen</button>
 
 	<!-- -->
-
+	  
 	  <script type='text/javascript' src="dmloader.js"></script>
 	  <script type='text/javascript' src="My project.js" async onload=""></script>
 	<!-- -->
@@ -77,27 +69,17 @@
 			archive_location_filter: function( path ) {
 				return ("archive" + path + "");
 			},
-
-			engine_arguments: ["--verify-graphics-calls=false"],
-
+            
 			splash_image: "splash_image.png",
 			custom_heap_size: 268435456
 		}
 
         Module.runApp("canvas", extra_params);
 
-	    // /* Fullscreen button */
-	    // document.getElementById("fullscreen").onclick = function (e) {
-	    //   Module.toggleFullscreen();
-	    // };
-
-      function init() {
-        var canvas = document.getElementById("canvas");
-        canvas.height = window.innerHeight;
-        canvas.width = window.innerWidth;
-      }
-
-      init();
+	    /* Fullscreen button */
+	    document.getElementById("fullscreen").onclick = function (e) {
+	      Module.toggleFullscreen();
+	    };
 	</script>
 </body>
 </html>
