@@ -1,0 +1,35 @@
+[project]
+title = My project
+version = 0.1
+
+[bootstrap]
+main_collection = /main/game.collectionc
+render = /render/default.renderc
+
+[input]
+game_binding = /input/game.input_bindingc
+
+[display]
+width = 1280
+height = 720
+
+[physics]
+scale = 0.02
+
+[script]
+shared_state = 1
+
+[sprite]
+max_count = 10240
+
+[resource]
+
+[collection]
+max_instances = 10240
+
+[tracking]
+app_id = 3A9B0FA0DAF2E322
+
+[graphics]
+texture_profiles = /render/default.texture_profiles
+
