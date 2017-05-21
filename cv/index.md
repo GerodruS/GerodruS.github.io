@@ -45,3 +45,7 @@ I’m trying to take part in different gamesjams, such as [Ludum Dare](https://l
 
 ### [](#languages)Languages
 English, Russian
+
+### [](#recommendations)Recommendations
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="ru" dir="ltr">Это крутейший <a href="https://twitter.com/GerodruS">@GerodruS</a>, разработчик Unity3D, Defold,UE и всего остального. Он может и для вас поразрабатывать ( не за ревшару) :D <a href="https://t.co/cRy3tKQqoE">pic.twitter.com/cRy3tKQqoE</a></p>&mdash; Гейм-дизайнер (@gdunderhood) <a href="https://twitter.com/gdunderhood/status/865128060328308737">18 May 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
