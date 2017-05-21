@@ -31,10 +31,39 @@ I’m trying to take part in different gamesjams, such as [Ludum Dare](https://l
 36. [SMASH BASH: Sukhov vs Zombies](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=44195).
 37. [12 Angry Tenants](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=24945).
 
+-------------------------------------------------------------
+ Centered   Default           Right Left
+  Header    Aligned         Aligned Aligned
+----------- ------- --------------- -------------------------
+   First    row                12.0 Example of a row that
+                                    spans multiple lines.
+
+  Second    row                 5.0 Here's another one. Note
+                                    the blank line between
+                                    rows.
+-------------------------------------------------------------
+
++---------------+---------------+--------------------+
+| Fruit         | Price         | Advantages         |
++===============+===============+====================+
+| Bananas       | $1.34         | - built-in wrapper |
+|               |               | - bright color     |
++---------------+---------------+--------------------+
+| Oranges       | $2.10         | - cures scurvy     |
+|               |               | - tasty            |
++---------------+---------------+--------------------+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
 
 ### [](#projects)Projects
 | Team | Project | Description |
 |:-------------|:------------------|:------|
+| Royal Troupe, Moscow, Russia, Dec 2014 - Nov 2016 | Bauman Moscow State Technical University | Bachelor's Degree, Computer Software Engineering |
 | WebGames, Dec 2014 - Jun 2016 | Citadels (Warlords: Art of War) / Цитадели (Жажда Власти) (iOS, Android) | - game logic;
 - logic of interaction with the server;
 - UI development.
