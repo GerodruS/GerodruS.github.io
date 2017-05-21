@@ -58,7 +58,7 @@ I’m trying to take part in different gamesjams, such as [Ludum Dare](https://l
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
+| item1<br>item2 | See the list | from the first column|
 
 ### [](#projects)Projects
 aaa
