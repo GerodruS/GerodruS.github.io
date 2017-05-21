@@ -5,11 +5,10 @@
 ### [](#contacts)Contacts
 E-mail: **gerodrus (at) gmail.com**
 
-[fb](https://fb.com/gerodrus), [vk](https://vk.com/gerodrus), [github](https://github.com/gerodrus), [Linkedin](https://www.linkedin.com/in/gerodrus/)
+[FB](https://fb.com/gerodrus), [Twitter](https://twitter.com/gerodrus), [VK](https://vk.com/gerodrus), [GitHub](https://github.com/gerodrus), [Linkedin](https://www.linkedin.com/in/gerodrus/)
 
 
 I’m a Moscow (Russia) -based front-end developer.
-
 I'm working in GameDev industry since 2012 year.
 
 
@@ -24,150 +23,31 @@ When it possible, I like to deeply dig into the subject and study it in detail o
 
 I consider it a pleasure to work with enthusiastic people, sharing inspiration and motivation with them!
 
-
-### [](#ludum-dare)Ludum Dare
-I’m trying to take part in different gamesjams, such as [Ludum Dare](https://ldjam.com/):
-| # | Theme | Project |
-|:-------------|:------------------|:------|
-| 34 | Two Button Controls, Growing | [Aquila](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=25412). |
-| 36 | Ancient Technology | [SMASH BASH: Sukhov vs Zombies](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=44195). |
-| 37 | One Room | [12 Angry Tenants](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=24945). |
-
 ### [](#projects)Projects
 
 | Team | Project | Description | Technology |
 |:-------------|:------------------|:------|:------|
 | **Rising Wave**<br/>Part-time freelance<br/>_Feb 2016 - Present_ | **SMASH BASH: Date with the Desert**<br/>_in development for PC/iOS/Android_ | - architecture design;<br/>- game logic;<br/>- UI development;<br/>- internal utilities. | Defold, Lua |
 | **JetCat Games**<br/>Remote<br/>_Jun 2016 - May 2017_ | **Heliborne**<br/>[Steam](http://store.steampowered.com/app/433530) | - game logic;<br/>- logic of interaction with the server;<br/>- UI development. | Unity3D, C# |
-| **Royal Troupe**<br/>Moscow, Russia<br/>_Dec 2014 - Nov 2016_ | **Message Quest**<br/>[Steam](http://store.steampowered.com/app/408280) | - architecture design;<br/>- game logic;<br/>- UI development;<br/>- internal utilities;<br/>- documentation management. | Unity3D / C#<br/>Defold, Lua |
-| **WebGames**<br>Moscow, Russia<br>_Dec 2014 - Jun 2016_ | **Citadels (Warlords: Art of War) / Цитадели (Жажда Власти)**<br>[iOS](https://itunes.apple.com/us/app/citadels-war-and-magic-strategy/id883660645), [Android](https://play.google.com/store/apps/details?id=com.webgames.lust) | - game logic;<br/>- logic of interaction with the server;<br/>- UI development. | Cocos2D-x, С++ |
+| **Royal Troupe**<br/>Part-time freelance<br/>_Dec 2014 - Nov 2016_ | **Message Quest**<br/>[Steam](http://store.steampowered.com/app/408280) | - architecture design;<br/>- game logic;<br/>- UI development;<br/>- internal utilities. | Unity3D, C# |
+| **WebGames**<br>Moscow, Russia<br>_Dec 2014 - Jun 2016_ | **Citadels (Warlords: Art of War)**<br>**Цитадели (Жажда Власти)**<br>[iOS](https://itunes.apple.com/us/app/citadels-war-and-magic-strategy/id883660645), [Android](https://play.google.com/store/apps/details?id=com.webgames.lust) | - game logic;<br/>- logic of interaction with the server;<br/>- UI development. | Cocos2D-x, С++ |
 | **Nekki**<br>Moscow, Russia<br>_Sep 2012 – May 2014_ | **Shadow Fight 2**<br>[iOS](https://itunes.apple.com/in/app/shadow-fight-2/id696565994), [Android](https://play.google.com/store/apps/details?id=com.nekki.shadowfight) | - porting code from ActionScript 3 to C++ (Marmalade SDK, Cocos2D-x);<br>- game logic;<br>- ai logic;<br>- internal utilities on C#. | Marmalade, Cocos2D-x, С++ |
+
+### [](#ludum-dare)Ludum Dare
+I’m trying to take part in different gamesjams, such as [Ludum Dare](https://ldjam.com/):
+
+| # | Theme | Project |
+|:-------------|:------------------|:------|
+| 34 | Two Button Controls, Growing | [Aquila](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=25412). |
+| 36 | Ancient Technology | [SMASH BASH: Sukhov vs Zombies](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=44195). |
+| 37 | One Room | [12 Angry Tenants](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=24945). |
 
 ### [](#education)Education
 
+|  |  |
 |:-------------|:------------------|
 | Moscow, Russia<br>_2009 – 2013_ | **Bauman Moscow State Technical University**<br>Bachelor's Degree, Computer Software Engineering |
 | Moscow, Russia<br>_2013 – 2015_ | **Bauman Moscow State Technical University**<br>Master's Degree, Computer Software Engineering |
 
 ### [](#languages)Languages
 English, Russian
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
