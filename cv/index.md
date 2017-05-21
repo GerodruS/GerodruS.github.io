@@ -43,18 +43,18 @@ I’m trying to take part in different gamesjams, such as [Ludum Dare](https://l
 
 | Team | Project | Description | Technology |
 |:-------------|:------------------|:------|:------|
-| Rising Wave<br/>Part-time freelance<br/>Feb 2016 - Present | SMASH BASH: Date with the Desert<br/>in development for PC/iOS/Android | - architecture design;<br/>- game logic;<br/>- UI development;<br/>- internal utilities. | Defold / Lua |
-| JetCat Games<br/>Remote<br/>Jun 2016 - May 2017 | Heliborne<br/>PC, Steam | - game logic;<br/>- logic of interaction with the server;<br/>- UI development. | Unity3D / C# |
-| Royal Troupe<br/>Moscow, Russia<br/>Dec 2014 - Nov 2016 | Message Quest<br/>PC, Steam<br/>Avarange<br/>in development | - architecture design;<br/>- game logic;<br/>- UI development;<br/>- internal utilities;<br/>- documentation management. | Unity3D / C#<br/>Defold / Lua |
-| WebGames<br>Moscow, Russia<br>Dec 2014 - Jun 2016 | Citadels (Warlords: Art of War) / Цитадели (Жажда Власти) (iOS, Android) | - game logic;<br/>- logic of interaction with the server;<br/>- UI development. | Cocos2D-x / С++ |
-| Nekki<br>Moscow, Russia<br>Sep 2012 – May 2014 | Shadow Fight 2<br>iOS<br>Android | - porting code from ActionScript 3 to C++ (Marmalade SDK, Cocos2D-x);<br>- game logic;<br>- ai logic;<br>- internal utilities on C#. | Marmalade, Cocos2D-x / С++ |
+| **Rising Wave**<br/>Part-time freelance<br/>_Feb 2016 - Present_ | SMASH BASH: Date with the Desert<br/>in development for PC/iOS/Android | - architecture design;<br/>- game logic;<br/>- UI development;<br/>- internal utilities. | Defold / Lua |
+| **JetCat Games**<br/>Remote<br/>_Jun 2016 - May 2017_ | Heliborne<br/>PC, Steam | - game logic;<br/>- logic of interaction with the server;<br/>- UI development. | Unity3D / C# |
+| **Royal Troupe**<br/>Moscow, Russia<br/>_Dec 2014 - Nov 2016_ | Message Quest<br/>PC, Steam<br/>Avarange<br/>in development | - architecture design;<br/>- game logic;<br/>- UI development;<br/>- internal utilities;<br/>- documentation management. | Unity3D / C#<br/>Defold / Lua |
+| **WebGames**<br>Moscow, Russia<br>_Dec 2014 - Jun 2016_ | Citadels (Warlords: Art of War) / Цитадели (Жажда Власти)<br>[iOS](https://itunes.apple.com/us/app/citadels-war-and-magic-strategy/id883660645), [Android](https://play.google.com/store/apps/details?id=com.webgames.lust) | - game logic;<br/>- logic of interaction with the server;<br/>- UI development. | Cocos2D-x / С++ |
+| **Nekki**<br>Moscow, Russia<br>_Sep 2012 – May 2014_ | Shadow Fight 2<br>[iOS](https://itunes.apple.com/in/app/shadow-fight-2/id696565994), [Android](https://play.google.com/store/apps/details?id=com.nekki.shadowfight) | - porting code from ActionScript 3 to C++ (Marmalade SDK, Cocos2D-x);<br>- game logic;<br>- ai logic;<br>- internal utilities on C#. | Marmalade, Cocos2D-x / С++ |
 
 
 ### [](#education)Education
 
-|:-------------|:------------------|:------|
-| Moscow, Russia, 2009 – 2013 | Bauman Moscow State Technical University | Bachelor's Degree, Computer Software Engineering |
-| Moscow, Russia, 2013 – 2015 | Bauman Moscow State Technical University | Master's Degree, Computer Software Engineering |
+|:-------------|:------------------|
+| Moscow, Russia<br>_2009 – 2013_ | **Bauman Moscow State Technical University**<br>Bachelor's Degree, Computer Software Engineering |
+| Moscow, Russia<br>_2013 – 2015_ | **Bauman Moscow State Technical University**<br>Master's Degree, Computer Software Engineering |
 
 Languages:
 English, Russian
