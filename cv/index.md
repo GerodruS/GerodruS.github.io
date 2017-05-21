@@ -27,28 +27,21 @@ I consider it a pleasure to work with enthusiastic people, sharing inspiration a
 
 ### [](#ludum-dare)Ludum Dare
 I’m trying to take part in different gamesjams, such as [Ludum Dare](https://ldjam.com/):
-34. [Aquila](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=25412).
-36. [SMASH BASH: Sukhov vs Zombies](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=44195).
-37. [12 Angry Tenants](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=24945).
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-| item1<br>item2 | See the list | from the first column|
+| # | Theme | Project |
+|:-------------|:------------------|:------|
+| 34 | Two Button Controls, Growing | [Aquila](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=25412). |
+| 36 | Ancient Technology | [SMASH BASH: Sukhov vs Zombies](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=44195). |
+| 37 | One Room | [12 Angry Tenants](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=24945). |
 
 ### [](#projects)Projects
 
 | Team | Project | Description | Technology |
 |:-------------|:------------------|:------|:------|
-| **Rising Wave**<br/>Part-time freelance<br/>_Feb 2016 - Present_ | SMASH BASH: Date with the Desert<br/>in development for PC/iOS/Android | - architecture design;<br/>- game logic;<br/>- UI development;<br/>- internal utilities. | Defold / Lua |
-| **JetCat Games**<br/>Remote<br/>_Jun 2016 - May 2017_ | Heliborne<br/>PC, Steam | - game logic;<br/>- logic of interaction with the server;<br/>- UI development. | Unity3D / C# |
-| **Royal Troupe**<br/>Moscow, Russia<br/>_Dec 2014 - Nov 2016_ | Message Quest<br/>PC, Steam<br/>Avarange<br/>in development | - architecture design;<br/>- game logic;<br/>- UI development;<br/>- internal utilities;<br/>- documentation management. | Unity3D / C#<br/>Defold / Lua |
-| **WebGames**<br>Moscow, Russia<br>_Dec 2014 - Jun 2016_ | Citadels (Warlords: Art of War) / Цитадели (Жажда Власти)<br>[iOS](https://itunes.apple.com/us/app/citadels-war-and-magic-strategy/id883660645), [Android](https://play.google.com/store/apps/details?id=com.webgames.lust) | - game logic;<br/>- logic of interaction with the server;<br/>- UI development. | Cocos2D-x / С++ |
-| **Nekki**<br>Moscow, Russia<br>_Sep 2012 – May 2014_ | Shadow Fight 2<br>[iOS](https://itunes.apple.com/in/app/shadow-fight-2/id696565994), [Android](https://play.google.com/store/apps/details?id=com.nekki.shadowfight) | - porting code from ActionScript 3 to C++ (Marmalade SDK, Cocos2D-x);<br>- game logic;<br>- ai logic;<br>- internal utilities on C#. | Marmalade, Cocos2D-x / С++ |
-
+| **Rising Wave**<br/>Part-time freelance<br/>_Feb 2016 - Present_ | **SMASH BASH: Date with the Desert**<br/>_in development for PC/iOS/Android_ | - architecture design;<br/>- game logic;<br/>- UI development;<br/>- internal utilities. | Defold, Lua |
+| **JetCat Games**<br/>Remote<br/>_Jun 2016 - May 2017_ | **Heliborne**<br/>[Steam](http://store.steampowered.com/app/433530) | - game logic;<br/>- logic of interaction with the server;<br/>- UI development. | Unity3D, C# |
+| **Royal Troupe**<br/>Moscow, Russia<br/>_Dec 2014 - Nov 2016_ | **Message Quest**<br/>[Steam](http://store.steampowered.com/app/408280) | - architecture design;<br/>- game logic;<br/>- UI development;<br/>- internal utilities;<br/>- documentation management. | Unity3D / C#<br/>Defold, Lua |
+| **WebGames**<br>Moscow, Russia<br>_Dec 2014 - Jun 2016_ | **Citadels (Warlords: Art of War) / Цитадели (Жажда Власти)**<br>[iOS](https://itunes.apple.com/us/app/citadels-war-and-magic-strategy/id883660645), [Android](https://play.google.com/store/apps/details?id=com.webgames.lust) | - game logic;<br/>- logic of interaction with the server;<br/>- UI development. | Cocos2D-x, С++ |
+| **Nekki**<br>Moscow, Russia<br>_Sep 2012 – May 2014_ | **Shadow Fight 2**<br>[iOS](https://itunes.apple.com/in/app/shadow-fight-2/id696565994), [Android](https://play.google.com/store/apps/details?id=com.nekki.shadowfight) | - porting code from ActionScript 3 to C++ (Marmalade SDK, Cocos2D-x);<br>- game logic;<br>- ai logic;<br>- internal utilities on C#. | Marmalade, Cocos2D-x, С++ |
 
 ### [](#education)Education
 
@@ -56,7 +49,7 @@ I’m trying to take part in different gamesjams, such as [Ludum Dare](https://l
 | Moscow, Russia<br>_2009 – 2013_ | **Bauman Moscow State Technical University**<br>Bachelor's Degree, Computer Software Engineering |
 | Moscow, Russia<br>_2013 – 2015_ | **Bauman Moscow State Technical University**<br>Master's Degree, Computer Software Engineering |
 
-Languages:
+### [](#languages)Languages
 English, Russian
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
