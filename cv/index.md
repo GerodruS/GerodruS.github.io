@@ -61,18 +61,7 @@ I’m trying to take part in different gamesjams, such as [Ludum Dare](https://l
 | <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
 
 ### [](#projects)Projects
-| Team | Project | Description |
-|:-------------|:------------------|:------|
-| Royal Troupe, Moscow, Russia, Dec 2014 - Nov 2016 | Bauman Moscow State Technical University | Bachelor's Degree, Computer Software Engineering |
-| WebGames, Dec 2014 - Jun 2016 | Citadels (Warlords: Art of War) / Цитадели (Жажда Власти) (iOS, Android) | - game logic;
-- logic of interaction with the server;
-- UI development.
-Cocos2D-x / С++
- |
-| Nekki, Sep 2012 – May 2014 | Shadow Fight 2 (iOS, Android) | - porting code from ActionScript 3 to C++ (Marmalade SDK, Cocos2D-x);
-- game logic;
-- ai logic;
-- internal utilities on C#. |
+aaa
 
 
 ### [](#education)Education
