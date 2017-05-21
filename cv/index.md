@@ -13,7 +13,7 @@
 I’m a Moscow (Russia) -based front-end developer.
 I'm working in GameDev industry **since 2012 year**.
 
-I have a university degree in “Сomputer science and engineering”, obtained in one of the best Russian technical universities.
+I have a university degree in “Computer science and engineering”, obtained in one of the best Russian technical universities.
 I have a proficiency in **C++, C#, Lua**, etc. and solid understanding of working with **Cocos2D-X v2, Unity3D, Defold**, etc. engines. Recently started to work with **Unreal Engine** too.
 
 I’m quite a passionate **hardcore gamer** ([steam](https://steamcommunity.com/id/GerodruS), [psn](https://psnprofiles.com/GerodruS)) with a strong interest in game development and up-to-date game market. I believe that the future is behind sharp and honest games. **Because games matter!**
@@ -26,8 +26,8 @@ I’m quite a passionate **hardcore gamer** ([steam](https://steamcommunity.com/
 | **Rising Wave**<br/>Remote, part-time<br/>_Feb 2016 - Present_ | **SMASH BASH: Date with the Desert**<br/>_in development for PC/iOS/Android_ | - architecture design;<br/>- game logic;<br/>- UI development;<br/>- internal utilities. | Defold, Lua |
 | **JetCat Games**<br/>Remote<br/>_Jun 2016 - May 2017_ | **Heliborne**<br/>[Steam](http://store.steampowered.com/app/433530) | - game logic;<br/>- logic of interaction with the server;<br/>- Steam services integration;<br/>- UI development. | Unity3D, C# |
 | **Royal Troupe**<br/>Remote, part-time<br/>_Dec 2014 - Nov 2016_ | **Message Quest**<br/>[Steam](http://store.steampowered.com/app/408280) | - architecture design;<br/>- game logic;<br/>- UI development;<br/>- internal utilities. | Unity3D, C# |
-| **WebGames**<br>Moscow, Russia<br>_Dec 2014 - Jun 2016_ | **Citadels (Warlords: Art of War)**<br>**Цитадели (Жажда Власти)**<br>[iOS](https://itunes.apple.com/us/app/citadels-war-and-magic-strategy/id883660645), [Android](https://play.google.com/store/apps/details?id=com.webgames.lust) | - game logic;<br/>- logic of interaction with the server;<br/>- services integration;<br/>- UI development. | Cocos2D-x, С++ |
-| **Nekki**<br>Moscow, Russia<br>_Sep 2012 – May 2014_ | **Shadow Fight 2**<br>[iOS](https://itunes.apple.com/in/app/shadow-fight-2/id696565994), [Android](https://play.google.com/store/apps/details?id=com.nekki.shadowfight) | - porting code from ActionScript 3;<br>- game logic;<br>- AI logic;<br>- internal utilities on C#. | Marmalade, Cocos2D-x, С++, C# |
+| **WebGames**<br>Moscow, Russia<br>_Dec 2014 - Jun 2016_ | **Citadels (Warlords: Art of War)**<br>**Цитадели (Жажда Власти)**<br>[iOS](https://itunes.apple.com/us/app/citadels-war-and-magic-strategy/id883660645), [Android](https://play.google.com/store/apps/details?id=com.webgames.lust) | - game logic;<br/>- logic of interaction with the server;<br/>- services integration;<br/>- UI development. | Cocos2D-x, C++ |
+| **Nekki**<br>Moscow, Russia<br>_Sep 2012 – May 2014_ | **Shadow Fight 2**<br>[iOS](https://itunes.apple.com/in/app/shadow-fight-2/id696565994), [Android](https://play.google.com/store/apps/details?id=com.nekki.shadowfight) | - porting code from ActionScript 3;<br>- game logic;<br>- AI logic;<br>- internal utilities on C#. | Marmalade, Cocos2D-x, C++, C# |
 
 ### [](#gamesjams)GamesJams
 I’m trying to take part in different gamesjams, such as [Ludum Dare](https://ldjam.com/):
