@@ -1,6 +1,31 @@
 ---
--- layout: empty
+-- layout: default
 ---
+
+Contacts:
+E-mail: gerodrus (at) gmail.com
+[fb](https://fb.com/gerodrus), [vk](https://vk.com/gerodrus), [github](https://github.com/gerodrus), [Linkedin](https://www.linkedin.com/in/gerodrus/)
+
+I’m a Moscow (Russia) -based front-end developer. I'm working in GameDev industry since 2012 year.
+
+I have a university degree in “Сomputer science and engineering”, obtained in one of the best Russian technical universities.
+I have a proficiency in C++, C#, Lua, etc. and solid understanding of working with Cocos2D-X v2, Unity3D, Defold, etc. engines. Recently started to work with Unreal Engine too.
+
+I’m quite a passionate hardcore gamer ([steam](https://steamcommunity.com/id/GerodruS), [psn](https://psnprofiles.com/GerodruS)) with a strong interest in game development and up-to-date game market. I believe that the future is behind sharp and honest games. Because games matter!
+If possible, I like to deeply dig into the subject and study it in detail on practice, learn something new. But this does not make sense without a clear goal. That’s why I’m always focused on the result. I like solving problems.
+I consider it a pleasure to work with enthusiastic people, sharing inspiration and motivation with them!
+
+I’m trying to take part in different gamesjams, such as [Ludum Dare](https://ldjam.com/):
+34. [Aquila](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=25412).
+36. [SMASH BASH: Sukhov vs Zombies](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=44195).
+37. [12 Angry Tenants](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=24945).
+
+|:-------------|:------------------|:------|
+| Moscow, Russia, 2009 – 2013 | Bauman Moscow State Technical University | Bachelor's Degree, Computer Software Engineering |
+| Moscow, Russia, 2013 – 2015 | Bauman Moscow State Technical University | Master's Degree, Computer Software Engineering |
+
+Languages:
+English, Russian
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
