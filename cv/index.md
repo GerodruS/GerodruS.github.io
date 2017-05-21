@@ -31,27 +31,6 @@ I’m trying to take part in different gamesjams, such as [Ludum Dare](https://l
 36. [SMASH BASH: Sukhov vs Zombies](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=44195).
 37. [12 Angry Tenants](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=24945).
 
--------------------------------------------------------------
- Centered   Default           Right Left
-  Header    Aligned         Aligned Aligned
------------ ------- --------------- -------------------------
-   First    row                12.0 Example of a row that
-                                    spans multiple lines.
-
-  Second    row                 5.0 Here's another one. Note
-                                    the blank line between
-                                    rows.
--------------------------------------------------------------
-
-+---------------+---------------+--------------------+
-| Fruit         | Price         | Advantages         |
-+===============+===============+====================+
-| Bananas       | $1.34         | - built-in wrapper |
-|               |               | - bright color     |
-+---------------+---------------+--------------------+
-| Oranges       | $2.10         | - cures scurvy     |
-|               |               | - tasty            |
-+---------------+---------------+--------------------+
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -61,7 +40,11 @@ I’m trying to take part in different gamesjams, such as [Ludum Dare](https://l
 | item1<br>item2 | See the list | from the first column|
 
 ### [](#projects)Projects
-aaa
+| Team | Project | Description | Technology |
+|:-------------|:------------------|:------|:------|
+| Royal Troupe<br/>Moscow, Russia<br/>Dec 2014 - Nov 2016 | Message Quest<br/>PC, Steam<br/>Avarange<br/>in development | - architecture design;<br/>- game logic;<br/>- UI development;<br/>- internal utilities;<br/>- documentation management. | Unity3D / C#<br/>Defold / Lua |
+| WebGames<br>Moscow, Russia<br>Dec 2014 - Jun 2016 | Citadels (Warlords: Art of War) / Цитадели (Жажда Власти) (iOS, Android) | - game logic;<br/>- logic of interaction with the server;<br/>- UI development. | Cocos2D-x / С++ |
+| Nekki<br>Moscow, Russia<br>Sep 2012 – May 2014 | Shadow Fight 2<br>iOS<br>Android | - porting code from ActionScript 3 to C++ (Marmalade SDK, Cocos2D-x);<br>- game logic;<br>- ai logic;<br>- internal utilities on C#. | Marmalade, Cocos2D-x / С++ |
 
 
 ### [](#education)Education
