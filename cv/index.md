@@ -7,21 +7,15 @@ E-mail: **gerodrus (at) gmail.com**
 
 [FB](https://fb.com/gerodrus), [Twitter](https://twitter.com/gerodrus), [VK](https://vk.com/gerodrus), [GitHub](https://github.com/gerodrus), [Linkedin](https://www.linkedin.com/in/gerodrus/)
 
+### [](#summary)Summary
 
 I’m a Moscow (Russia) -based front-end developer.
-I'm working in GameDev industry since 2012 year.
-
+I'm working in GameDev industry **since 2012 year**.
 
 I have a university degree in “Сomputer science and engineering”, obtained in one of the best Russian technical universities.
+I have a proficiency in **C++, C#, Lua, etc**. and solid understanding of working with **Cocos2D-X v2, Unity3D, Defold, etc.** engines. Recently started to work with **Unreal Engine** too.
 
-I have a proficiency in C++, C#, Lua, etc. and solid understanding of working with Cocos2D-X v2, Unity3D, Defold, etc. engines. Recently started to work with Unreal Engine too.
-
-
-I’m quite a passionate hardcore gamer ([steam](https://steamcommunity.com/id/GerodruS), [psn](https://psnprofiles.com/GerodruS)) with a strong interest in game development and up-to-date game market. I believe that the future is behind sharp and honest games. Because games matter!
-
-When it possible, I like to deeply dig into the subject and study it in detail on practice, learn something new. But this does not make sense without a clear goal. That’s why I’m always focused on the result. I like solving problems.
-
-I consider it a pleasure to work with enthusiastic people, sharing inspiration and motivation with them!
+I’m quite a passionate hardcore gamer ([steam](https://steamcommunity.com/id/GerodruS), [psn](https://psnprofiles.com/GerodruS)) with a strong interest in game development and up-to-date game market. I believe that the future is behind sharp and honest games. **Because games matter!**
 
 ### [](#projects)Projects
 
@@ -36,15 +30,14 @@ I consider it a pleasure to work with enthusiastic people, sharing inspiration a
 ### [](#ludum-dare)Ludum Dare
 I’m trying to take part in different gamesjams, such as [Ludum Dare](https://ldjam.com/):
 
-| # | Theme | Project |
+| Event Name | Theme | Project |
 |:-------------|:------------------|:------|
-| 34 | Two Button Controls, Growing | [Aquila](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=25412). |
-| 36 | Ancient Technology | [SMASH BASH: Sukhov vs Zombies](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=44195). |
-| 37 | One Room | [12 Angry Tenants](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=24945). |
+| Ludum Dare #34 | Two Button Controls, Growing | [Aquila](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=25412) |
+| Ludum Dare #36 | Ancient Technology | [SMASH BASH: Sukhov vs Zombies](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=44195) |
+| Ludum Dare #37 | One Room | [12 Angry Tenants](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=24945) |
 
 ### [](#education)Education
 
-|  |  |
 |:-------------|:------------------|
 | Moscow, Russia<br>_2009 – 2013_ | **Bauman Moscow State Technical University**<br>Bachelor's Degree, Computer Software Engineering |
 | Moscow, Russia<br>_2013 – 2015_ | **Bauman Moscow State Technical University**<br>Master's Degree, Computer Software Engineering |
