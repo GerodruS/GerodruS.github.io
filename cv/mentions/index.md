@@ -23,7 +23,10 @@
 
 [![Defold game engine forum][mention-king-thumbnail]][mention-king]
 
-![from Defold forum](https://raw.githubusercontent.com/GerodruS/GerodruS.github.io/master/cv/mentions/mention_agulev.jpg)
+[![Defold game engine forum][mention-agulev-thumbnail]][mention-agulev]
 
 [mention-king-thumbnail]: https://raw.githubusercontent.com/GerodruS/GerodruS.github.io/master/cv/mentions/mention_king.jpg "Defold game engine forum"
 [mention-king]: https://forum.defold.com/t/programmer-is-looking-for-work-4-years-xp/8235/2 "Defold game engine forum"
+
+[mention-agulev-thumbnail]: https://raw.githubusercontent.com/GerodruS/GerodruS.github.io/master/cv/mentions/mention_agulev.jpg "Defold game engine forum"
+[mention-agulev]: https://forum.defold.com/t/programmer-is-looking-for-work-4-years-xp/8235/3 "Defold game engine forum"
