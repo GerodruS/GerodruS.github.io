@@ -21,6 +21,6 @@
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fyaroslav.kravtsov%2Fposts%2F10155365752422853&width=500" width="500" height="285" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
-[[https://github.com/GerodruS/GerodruS.github.io/blob/master/cv/mentions/mention_king.jpg|alt=octocat]]
+![alt text](https://raw.githubusercontent.com/GerodruS/GerodruS.github.io/master/cv/mentions/mention_king.jpg)
 
-([[https://github.com/GerodruS/GerodruS.github.io/blob/master/cv/mentions/mention_agulev.jpg|alt=octocat]])[https://forum.defold.com/t/programmer-is-looking-for-work-4-years-xp/8235/3]
+([[https://raw.githubusercontent.com/GerodruS/GerodruS.github.io/master/cv/mentions/mention_agulev.jpg|alt=octocat]])[https://forum.defold.com/t/programmer-is-looking-for-work-4-years-xp/8235/3]
