@@ -10,10 +10,10 @@
 
 ### [](#summary)Summary
 
-I’m a Moscow (Russia) -based front-end developer.
+I’m a Moscow (Russia) -based client-side developer.
 I'm working in GameDev industry **since 2012 year**.
 
-I have a university degree in “Computer science and engineering”, obtained in one of the best Russian technical universities.
+I have a masters degree in “Computer science and engineering”, obtained in one of the best Russian technical universities.
 I have a proficiency in **C++, C#, Lua**, etc. and solid understanding of working with **Cocos2D-X v2, Unity3D, Defold**, etc. engines. Recently started to work with **Unreal Engine** too.
 
 I’m quite a passionate **hardcore gamer** ([steam](https://steamcommunity.com/id/GerodruS), [psn](https://psnprofiles.com/GerodruS)) with a strong interest in game development and up-to-date game market. I believe that the future is behind sharp and honest games. **Because games matter!**
