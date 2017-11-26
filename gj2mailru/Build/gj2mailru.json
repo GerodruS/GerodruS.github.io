@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "gj2mailru.data.unityweb",
+"asmCodeUrl": "gj2mailru.asm.code.unityweb",
+"asmMemoryUrl": "gj2mailru.asm.memory.unityweb",
+"asmFrameworkUrl": "gj2mailru.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
