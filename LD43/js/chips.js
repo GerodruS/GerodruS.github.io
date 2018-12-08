@@ -24,7 +24,7 @@ const GameData = {
         ),
 
         loneliness: new Chip(
-            "Loneliness",
+            "Beat Loneliness",
             _ => GameData.chips.personalLife,
             _ => GameData.chips.depression,
         ),
@@ -36,7 +36,7 @@ const GameData = {
         ),
 
         depression: new Chip(
-            "Depression",
+            "Beat Depression",
             bossIndex => {
                 if (bossIndex === 2) {
                     return GameData.chips.deepGame;
@@ -60,7 +60,7 @@ const GameData = {
         ),
 
         deepGame: new Chip(
-            "Deep Themes in game",
+            "Add deep Themes to game",
             _ => GameData.chips.playersTears,
             _ => GameData.chips.gameWithoutSoul,
         ),
@@ -235,7 +235,7 @@ const GameData = {
         ),
 
         sleepDeprivation: new Chip(
-            "Sleep Deprivation",
+            "Beat Sleep Deprivation",
             _ => GameData.chips.healthySleep,
             _ => GameData.chips.migraine,
         ),
@@ -247,7 +247,7 @@ const GameData = {
         ),
 
         migraine: new Chip(
-            "Migraine",
+            "Beat Migraine",
             _ => GameData.chips.sleepDeprivation,
             _ => GameData.chips.stroke,
         ),
@@ -274,19 +274,19 @@ const GameData = {
 
         // vacation
         vacation: new Chip(
-            "Vacation",
+            "Get a Vacation",
             _ => GameData.chips.vacation,
             _ => GameData.chips.chronicFatigueSyndrome,
         ),
 
         chronicFatigueSyndrome: new Chip(
-            "Chronic fatigue syndrome",
+            "Beat Chronic fatigue syndrome",
             _ => GameData.chips.vacation,
             _ => GameData.chips.neurosis,
         ),
 
         neurosis: new Chip(
-            "Neurosis",
+            "Beat Neurosis",
             _ => GameData.chips.chronicFatigueSyndrome,
             _ => GameData.chips.occupationalBurnout,
         ),
