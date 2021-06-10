@@ -28,6 +28,8 @@ I’m trying to take part in different gamesjams, such as [Ludum Dare](https://l
 
 | Event Name | Theme | Project |
 |:-------------|:------------------|:------|
+| **Ludum Dare #43** | Sacrifices must be made | [GameDev Sacrifices](https://ldjam.com/events/ludum-dare/43/gamedev-sacrifices) |
+| **Ludum Dare #40** | The more you have, the worse it is | [Penguin Royale](https://ldjam.com/events/ludum-dare/40/penguin-royale) |
 | **Ludum Dare #37** | One Room | [12 Angry Tenants](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=24945) |
 | **Ludum Dare #36** | Ancient Technology | [SMASH BASH: Sukhov vs Zombies](http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=44195) |
 | **Ludum Dare #34** | Two Button Controls, Growing | [Aquila](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=25412) |
