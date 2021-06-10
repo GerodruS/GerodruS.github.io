@@ -12,7 +12,7 @@
 
 | Team | Project | Description | Technology |
 |:-------------|:------------------|:------|:------|
-| **Allods Team Arcade**<br/> Remote <br/>_May 2020 - Present_ | **Blast Brigade** <br/> [Site](https://blastbrigade.com) <br/> in development for _Nintendo Switch / Xbox / Playstation / Windows_ <br/> _iOS/Android_ |  | Unity3D, C# |
+| **Allods Team Arcade**<br/> Remote <br/>_May 2020 - Present_ | **Blast Brigade** <br/> [Site](https://blastbrigade.com) <br/> in development for _Nintendo Switch / Xbox / Playstation / Windows_ |  | Unity3D, C# |
 | **Fast Forward**<br/> Moscow, Russia <br/>_Nov 2017 - Apr 2020_ | **Planet of Heroes**<br/>[Google Play](https://play.google.com/store/apps/details?id=com.my.moba.ent) [Twitter](https://twitter.com/pohmoba) [Youtube](https://www.youtube.com/c/Planetofheroes)<br/>_iOS/Android_ <br/> <br/> **Bombastic Brothers**<br/>[App Store](https://apps.apple.com/ca/app/bombastic-brothers-top-squad/id1363944023) [Google Play](https://play.google.com/store/apps/details?id=com.my.ffs.action.bombasticbrothers) [Twitter](https://twitter.com/bombastic_bro) <br/> _iOS/Android_ |  | Unity3D, C# |
 | **Scream School**<br/>Moscow, Russia<br/>_Apr 2017 - Aug 2017_ | **Unity courses**<br/>[Site](http://screamschool.ru/courses/unity/) | | |
 | **Trampbon**<br/>Remote<br/>_Jun 2017 - Oct 2017_ | **Several titles for Trampbon Game Station**<br/>[Site](http://trampbon.ru/) | | Unity3D, C#, Kinect v2 |
